@@ -461,7 +461,11 @@
         margin-left: 100px;
     }
     .parte2{
-        width: 40vw;
+        width: 50vw;
+        height: 88vh;
+    }
+    .page{
+        height: 88vh;
     }
     .celular{
         margin-left: 10px;
