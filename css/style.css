@@ -460,8 +460,13 @@
     .logo{
         margin-left: 100px;
     }
+    .parte2{
+        width: 40vw;
+    }
     .celular{
         margin-left: 10px;
+        width: 30vw;
+        height: 40vh;
     }
     .titulo2{
         font-size: 35px;
