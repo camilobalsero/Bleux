@@ -462,15 +462,15 @@
     }
     .parte2{
         width: 50vw;
-        height: 88vh;
+        height: 60vh;
     }
     .page{
-        height: 88vh;
+        height: 60vh;
     }
     .celular{
-        margin-left: 10px;
+        margin-left: 30px;
         width: 30vw;
-        height: 40vh;
+        height: 30vh;
     }
     .titulo2{
         font-size: 35px;
